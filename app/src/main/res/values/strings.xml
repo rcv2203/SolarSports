@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">SOLAR"\n"SPORTS</string>
+    <string name="panel">Panel</string>
+
+    <string name="login">Sign In</string>
+    <string name="register">Sign Up</string>
+
+    <string name="email">E m a i l</string>
+    <string name="ingrese_email">Ingrese el email</string>
+    <string name="pass">P a s s w o r d</string>
+    <string name="ingrese_pass">Ingrese su password</string>
+
+    <!--Sign Up-->
+    <string name="name">N o m b r e</string>
+    <string name="ingrese_name">Ingrese su nombre</string>
+
+    <!--Pantalla menu-->
+    <string name="categorias">Categorias</string>
+
+    <string name="regitrar_categorias">Registrar categorias</string>
+    <string name="datos_estadio">Datos del estadio</string>
+    <string name="datos_">Datos del estadio</string>
+    <!--Pantalla registrar estadios-->
+    <string name="paneles">Paneles</string>
+    <string name="kWh">kW/h</string>
+    <string name="valor">Valor/h</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="mes">Mes</string>
+    <string name="select_date">Seleccione la fecha</string>
+    <string name="enviar_datos">Enviar Datos</string>
+    <string name="estadistica_estadio">Esatadisticas de Estadios</string>
+    <string name="lat_long">Lat/Lon</string>
+    <string name="name_">Nombre</string>
+
+
+    <!--Datos estadios "Estadisticas estadio"-->
+    <string name="n_maracana"><b>Maracana</b></string>
+    <string name="n_campin"><b>Campin"\n"Bogota</b></string>
+    <string name="ahorro_energia"><b>Ahorro de energía</b></string>
+    <string name="cero_contaminacion"><b>Cero emisiones "\n"contaminantes</b></string>
+    <string name="ener_sostenible"><b>Es una energía"\n"renovable sostenible</b></string>
+
+
+
+</resources>
